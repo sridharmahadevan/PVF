@@ -8,7 +8,6 @@ For a sample demonstration, execute the following code:
 
 pendulum_rpi_generic_experiment(50,20,8,'pendulum_basis_eigen');
 
-The results should look like the sample plot attached to the repository. 
 
 This MATLAB package requires the Parallel Distributed Toolbox, and also uses nVidia GPUs for faster processing. 
 
